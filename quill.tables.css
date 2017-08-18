@@ -9,6 +9,7 @@
   border: 1px solid black;
   padding: 5px;
   height: 25px;
+  vertical-align: top;
 }
 
 button.ql-table::after { content: "TABLE"; }
