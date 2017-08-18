@@ -1,4 +1,8 @@
-
+body {
+ width: 50%;
+ left: 25%;
+ position: absolute;
+}
 
 .ql-editor table {
   width: 100%;
